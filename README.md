@@ -3,3 +3,5 @@
 [coddio dia 1](https://prod.liveshare.vsengsaas.visualstudio.com/join?E0F4BF6BF721B04768435C52D7826080C69A)
 
 https://prod.liveshare.vsengsaas.visualstudio.com/join?E0F4BF6BF721B04768435C52D7826080C69A
+
+[Apresentações](https://docs.google.com/presentation/d/1h8HU4wcckNWgIuuPVKB3wnkP99ibk-_dFvWBdUK72sc/edit?usp=sharing)
